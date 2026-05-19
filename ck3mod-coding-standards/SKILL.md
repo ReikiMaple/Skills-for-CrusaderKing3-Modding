@@ -51,4 +51,3 @@ For code work, state:
 3. The script content or patch.
 4. The validation method.
 5. Any compatibility or performance risk that remains.
-

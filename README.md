@@ -19,4 +19,3 @@
 
 - `ck3moddebug` reads the Tiger executable path from the `README.md` file in its own skill directory.
 - These skills are intended for CK3 mod development, not general programming questions.
-

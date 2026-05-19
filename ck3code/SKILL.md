@@ -75,4 +75,3 @@ If any field or syntax is uncertain, check reference or vanilla examples first. 
 - Need long-term coding standards or compatibility discipline: use `ck3mod-coding-standards`.
 - Need authoritative mechanic/field confirmation: use `ck3reference`.
 - Need tooling-based error diagnosis: use `ck3moddebug`.
-
