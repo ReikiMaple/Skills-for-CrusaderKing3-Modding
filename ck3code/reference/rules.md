@@ -58,4 +58,3 @@ This is the quick guardrail index for `ck3code`. For fuller standards, use `ck3m
 - CK3 content patterns: `ck3mod-coding-standards/references/05_ck3_content_patterns.md`
 - GUI/Jomini: `ck3mod-coding-standards/references/06_gui_jomini.md`
 - Debug/performance: `ck3mod-coding-standards/references/07_debug_performance.md`
-
