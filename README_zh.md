@@ -19,3 +19,4 @@
 
 - `ck3moddebug` 会读取自身 skill 目录下 `README.md` 中记录的 Tiger 路径
 - 这些 skill 是给 CK3 mod 开发用的，不适用于一般编程问题
+- 本技能集包含了来自 [CK3 Wiki](https://ck3.paradoxwikis.com/) 的模组参考资料。特别感谢 CK3 Wiki 的创建者和贡献者提供的宝贵文档。
